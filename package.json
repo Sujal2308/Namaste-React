@@ -1,0 +1,21 @@
+{
+  "name": "reactapp",
+  "version": "1.0.0",
+  "description": "\"My first React App\"",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/Sujal2308/Namaste-React.git)"
+  },
+  "keywords": [],
+  "author": "Sujal Bhugul",
+  "license": "ISC",
+  "dependencies": {
+    "browserlist": "^1.0.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
