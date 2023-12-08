@@ -2,7 +2,6 @@
   "name": "reactapp",
   "version": "1.0.0",
   "description": "\"My first React App\"",
-  "main": "App.js",
   "scripts": {
     "test": "jest"
   },
